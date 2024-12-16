@@ -1,0 +1,9 @@
+/* app_one/static/app_one/styles.css */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkblue;
+}

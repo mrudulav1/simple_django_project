@@ -1,0 +1,9 @@
+/* app_two/static/app_two/styles.css */
+body {
+    background-color: lightgreen;
+    font-family: Helvetica, sans-serif;
+}
+
+h1 {
+    color: darkgreen;
+}
